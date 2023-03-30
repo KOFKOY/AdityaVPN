@@ -1,6 +1,19 @@
 # Personal VPN
 ### Based on Shadowsocks with V2-Raу-plugin
 
+如果提示部署失败
+Sticky cache enabled
+====================================
+Banned Dependency Detected!
+====================================
+ 
+v2ray
+ 
+Please remove this dependency from your project to use it on Railway
+
+就尝试把Reader.me文件删除后再部署
+
+
 Click the button below to deploy, and remember to Star if it works:
 
 [![Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
