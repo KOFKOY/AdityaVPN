@@ -73,10 +73,13 @@ Change {Domain} with your server url and {password} with your password.
 ## 3. Clients
 
 ### Android 
-
+谷歌商店
 [shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks&hl=en_IN&gl=US)
-
+v2-raу-plugin可能与当前版本手机不兼容 搜索不到应该就是不兼容
 [v2-raу-plugin](http://bit.ly/3g5QjkP)
+推荐Github下载地址
+[shadowsocks](https://github.com/shadowsocks/shadowsocks-android)
+[v2-raу-plugin](https://github.com/shadowsocks/v2ray-plugin)
 
 ### Windows
 
